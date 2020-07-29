@@ -1,1 +1,1 @@
-# sample-data
+Sample data used for test exercises.
